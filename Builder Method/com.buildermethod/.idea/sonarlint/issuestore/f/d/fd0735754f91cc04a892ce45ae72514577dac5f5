@@ -1,0 +1,9 @@
+
+x
+java:S1450"VRemove the "battery" field and declare it as a local variable in the relevant methods.(åÙçÀøÿÿÿÿ8º¨¼¤/
+g
+java:S1450"QRemove the "os" field and declare it as a local variable in the relevant methods.(Ò…óó
+<
+java:S1068"&Remove this unused "os" private field.(Ò…óó
+M
+java:S1068"+Remove this unused "battery" private field.(åÙçÀøÿÿÿÿ8Â¨¼¤/
