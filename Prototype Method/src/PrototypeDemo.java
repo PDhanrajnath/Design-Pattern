@@ -25,7 +25,6 @@ public class PrototypeDemo{
         System.out.print("\n");
 
         EmployeeRecord e1=new EmployeeRecord(eid,ename,edesignation,esalary,eaddress);
-
         e1.showRecord();
         System.out.println("\n");
         EmployeeRecord e2=(EmployeeRecord) e1.getClone();
