@@ -1,8 +1,8 @@
 
-K
-java:S1659")Declare "designation" on a separate line.(íµ±ûÿÿÿÿ8¸˜‚»¨/
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Îº‡Êùÿÿÿÿ8¿˜‚»¨/
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ8À˜‚»¨/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÛĞÿÿÿÿÿ8Á˜‚»¨/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(åíãûÿÿÿÿ8Å˜‚»¨/
+D
+java:S1659")Declare "designation" on a separate line.(íµ±ûÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Îº‡Êùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÛĞÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åíãûÿÿÿÿ

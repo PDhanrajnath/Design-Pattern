@@ -1,20 +1,22 @@
 
+E
+java:S6212"/Declare this local variable with "var" instead.(ßÅÍ”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒóÖ‹ÿÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(´€Ó¥ıÿÿÿÿ
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(°•Ş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶ªÕ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş
+M	java:S106"9Replace this use of System.out or System.err by a logger.(æùÊq
+M	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´™Ìàùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»¨±İ
+E
+java:S6212"/Declare this local variable with "var" instead.(‘Ö€ô
+M	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş
+J
+java:S6212"/Declare this local variable with "var" instead.(Œ’¶ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
 L
-java:S6212"/Declare this local variable with "var" instead.(ßÅÍ”8âşº¨/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒóÖ‹ÿÿÿÿÿ8çşº¨/
-Q
-java:S6212"/Declare this local variable with "var" instead.(´€Ó¥ıÿÿÿÿ8éşº¨/
-T	java:S106	"9Replace this use of System.out or System.err by a logger.(°•Ş8ëşº¨/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶ªÕ8íşº¨/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş8ïşº¨/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(æùÊq8òşº¨/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş8ôşº¨/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´™Ìàùÿÿÿÿ8öşº¨/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş8øşº¨/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(»¨±İ8úşº¨/
-L
-java:S6212"/Declare this local variable with "var" instead.(‘Ö€ô8ûşº¨/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş8ışº¨/
-Q
-java:S6212"/Declare this local variable with "var" instead.(Œ’¶ıÿÿÿÿ8œİ’»¨/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÿşº¨/
+java:S1905"1Remove this unnecessary cast to "EmployeeRecord".(‹ŒÙ¥ùÿÿÿÿ

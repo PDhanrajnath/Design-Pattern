@@ -29,6 +29,7 @@ public class EmployeeRecord implements Prototype{
 
     @Override
     public EmployeeRecord getClone() {
+
         return new EmployeeRecord(id,name,designation,salary,address);
     }
 
