@@ -7,8 +7,11 @@ public class Demo {
 
         //Get the only object available
         Singleton object = Singleton.getInstance();
-
+        Singleton obj= Singleton.getInstance();
+        System.out.println(obj);
+        System.out.println(object);
         //show the message
         object.showMessage();
+        obj.showMessage();
     }
 }
