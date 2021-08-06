@@ -15,4 +15,5 @@ class AlertStateContext {
     public void alert() {
         currentState.alert(this);
     }
+
 }

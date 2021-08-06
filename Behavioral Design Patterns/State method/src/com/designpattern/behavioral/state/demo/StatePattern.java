@@ -6,8 +6,12 @@ class StatePattern {
         AlertStateContext stateContext = new AlertStateContext();
         stateContext.alert();
         stateContext.alert();
+        stateContext.setState(new Sound());
+        stateContext.alert();
         stateContext.setState(new Silent());
         stateContext.alert();
+        stateContext.alert();
+        stateContext.setState(new DND());
         stateContext.alert();
         stateContext.alert();
     }
