@@ -1,0 +1,8 @@
+
+\
+java:S1854"?Remove this useless assignment to local variable "firstCourse".(ñõÑ8Îñ¡İ³/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïƒâ¦
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ²±
+]	java:S125"<This block of commented-out lines of code should be removed.(êœõªıÿÿÿÿ8Üñ¡İ³/
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(Éú+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ŸÙ£

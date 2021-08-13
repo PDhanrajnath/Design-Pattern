@@ -19,6 +19,7 @@ public class DemoMainClass
 
         Course firstCourse = iteratorCourse.currentItem();
         System.out.println("First Course: "+firstCourse.getName());
+
         while(iteratorCourse.hasNext()) {
             Course currentCourse = iteratorCourse.next();
             System.out.println(currentCourse.getName());
